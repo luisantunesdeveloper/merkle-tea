@@ -1,6 +1,3 @@
-# merkle-tea
-A tree for the tea
-=======
 # MerkleTea
 
 A very simple implementation of a merkle tree. Give the base of the tree and it computes all the way to the root node
